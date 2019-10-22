@@ -1,0 +1,9 @@
+.idea/*
+.ipynb_checkpoints/*
+__pycache__/*
+
+# Don't track data sets or created models
+baselineModel/*
+*.h5
+
+
