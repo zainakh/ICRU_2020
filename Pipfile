@@ -16,6 +16,8 @@ matplotlib = "*"
 h5py = "*"
 mkl-fft = "*"
 scikit-image = "*"
+pyserial = "*"
+keras = "*"
 
 [requires]
 python_version = "3.6"
